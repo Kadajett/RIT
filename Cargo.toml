@@ -1,0 +1,16 @@
+[package]
+name = "image_editor"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+image = "0.25.1"
+walkdir = "2.5.0"
+serde = { version = "1.0.203", features = ["derive"] }
+serde_json = "1.0.120"
+clap = { version = "4.5.8", features = ["derive"] }
+wild = "2.2.1"
+dialoguer = "0.11.0"
+log = "0.4.22"
+env_logger = "0.11.3"
+rayon = "1.5"
