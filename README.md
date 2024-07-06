@@ -1,6 +1,10 @@
-# Image Processor
+# Rust Image Transformer
 
-Image Processor is a Rust-based command-line tool that recursively processes images in a directory. It performs various transformations such as resizing, rotating, and flipping, while generating a modified training data JSON file.
+## Introducing the RitRat
+<img src="https://github.com/Kadajett/Rust-Training-Image-Processor/assets/3784716/8aae9ebf-1a37-482a-aaa2-719a748373e2" alt="The RitRat" width="200"/>
+
+
+Rust Image Transformer is a Rust-based command-line tool that recursively processes images in a directory. It performs various transformations such as resizing, rotating, and flipping, while generating a modified training data JSON file.
 
 ## Features
 
